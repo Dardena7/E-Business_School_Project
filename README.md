@@ -5,6 +5,8 @@ It is an e-business website created in php with a "homemade" framework.
 The administrator can manage products and members.
 The members can see products and put them in their carts.
 
+You can test it at http://imagiweb.be/projet-e-commerce
+
 ##Made by PRWB - Group 25 
 
 ### Group members
